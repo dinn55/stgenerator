@@ -1,2 +1,1 @@
-# stgenerator
-Star Trek Character Generator
+# Star Trek Character Generator
