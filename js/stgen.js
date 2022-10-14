@@ -83,6 +83,15 @@ $(document).ready(function() {
     "Artistic",
     "Jaded",
     "Unsettlingly handsome",
+    "Loud mouth",
+    "Finely-aged",
+    "Uncomfortbly attractive",
+    "Anti-social",
+    "Super buff",
+    "Curious",
+    "Hand-wringing",
+    "Hospitable",
+    "Absolute basard",
   );
 
   var quality = new Array(
@@ -129,6 +138,7 @@ $(document).ready(function() {
     "Klingon",
     "Na'kuhl",
     "Orion",
+    "Orion/Andorian"
     "Risian",
     "Romulan",
     "Sivaoan",
@@ -146,6 +156,7 @@ $(document).ready(function() {
     "transporter tech",
     "first officer",
     "pilot",
+    "intelligence officer",
     "starship captain",
     "space station commander",
     "counselor",
@@ -213,6 +224,9 @@ $(document).ready(function() {
     "author",
     "travel writer",
     "confectioner",
+    "retired Starfleet",
+    "hacker",
+    "computer expert",
   );
   
   var fact = new Array(
@@ -288,6 +302,13 @@ $(document).ready(function() {
     "likes crossword puzzles",
     "is really good at chess",
     "is kind of a stalker",
+    "is super annoyed by human culture",
+    "eats gagh every day for breakfast",
+    "brings baked goods to every gathering",
+    "confused by own popularity",
+    "is reluctantly helpful",
+    "is anthropoligically interested in others' gossip",
+    "is single-handedly holding this shit together",
   );
   
   randomTrait = trait[Math.floor( Math.random() * trait.length)];
