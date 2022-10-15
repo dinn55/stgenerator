@@ -92,6 +92,10 @@ $(document).ready(function() {
     "Hand-wringing",
     "Hospitable",
     "Absolute basard",
+    "Southern belle",
+    "Well-meaning",
+    "Wolfish",
+    "Street-smart",
   );
 
   var quality = new Array(
@@ -227,6 +231,8 @@ $(document).ready(function() {
     "retired Starfleet",
     "hacker",
     "computer expert",
+    "monk",
+    "kid",
   );
   
   var fact = new Array(
@@ -309,6 +315,12 @@ $(document).ready(function() {
     "is reluctantly helpful",
     "is anthropoligically interested in others' gossip",
     "is single-handedly holding this shit together",
+    "has a difficult relationship with their mother",
+    "has a reputation for being overly affectionate",
+    "enjoys being angry",
+    "is obsessed with pizza",
+    "was a child prodigy",
+    "is known as a washed-up has-been",
   );
   
   randomTrait = trait[Math.floor( Math.random() * trait.length)];
