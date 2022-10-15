@@ -142,7 +142,7 @@ $(document).ready(function() {
     "Klingon",
     "Na'kuhl",
     "Orion",
-    "Orion/Andorian"
+    "Orion/Andorian",
     "Risian",
     "Romulan",
     "Sivaoan",
@@ -299,7 +299,7 @@ $(document).ready(function() {
     "thinks a little pain never hurt anyone",
     "cares for stray animals",
     "has a great garden",
-    "teaches kids' warp core repair their free time",
+    "teaches kids warp core repair their free time",
     "time-travelled accidentally",
     "can speak Vulcan",
     "saw a horrible murder",
